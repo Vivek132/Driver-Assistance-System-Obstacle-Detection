@@ -1,0 +1,10 @@
+11:53:58 **** Build of configuration Debug for project Node_2 ****
+make -j8 all 
+arm-none-eabi-size   Node_2.elf 
+   text	   data	    bss	    dec	    hex	filename
+  13840	    100	   2012	  15952	   3e50	Node_2.elf
+Finished building: default.size.stdout
+ 
+
+11:53:58 Build Finished. 0 errors, 0 warnings. (took 502ms)
+
